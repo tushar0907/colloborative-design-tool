@@ -1,3 +1,3 @@
 <div align="center">
- Clone of Figma Apllication, Developed by Tushar
+ Colloborrative Design Tool Called FigPro, Developed by Tushar
 </div>
